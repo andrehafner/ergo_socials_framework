@@ -1,0 +1,29 @@
+1) Admin Self-Review Loop:
+-- Think jury is best option -- anyone can join Sigs (clear path historically) and become part of Jury. Anyone can become a SigCan by asking - there is no barrier. See https://github.com/sigmanauts/sigmanaut-applications/blob/main/.github/ISSUE_TEMPLATE/sigmanaut-application.yml in Sigs github repo and Community Guidelines for Sigmanauts @ https://tinyurl.com/Sigmanauts for reference.
+-- 3 or 5 selected from a pool, what they're voting on is clearly defined and put to vote.
+2) Transparency
+-- Need to log and make log public, period. Like a police review board (this may be a foreign concept to some regions/personal experiences). Sunshine is best disinfectant against behavior and community FUD.  
+-- implement MOD log that is scraped to a repo and monthly report generated from that as a Public Moderation Log. The Repo will be open, not private.
+-- repo also has a Precedent Database: Internal, publicly viewable wiki of past decisions. When mods act, they cite precedent. Creates consistency across Admins AND if community determines there is a pattern that needs correction that can be redirected by rule adjustments, augments, removals.
+3) Admin Calcification
+-- Sigs have always possessed an open framework for joining as SigCan and earning Sigmanaut role. Need to be referenced in this document (https://tinyurl.com/Sigmanauts --> gets you to all the info/links)
+-- Term limits need to be stated (6months would be good term/target) 
+-- also to consider this is a tiring, thankless job -- when someone needs to dip out due to fatigue or any reason how to back-fill? 
+-- how many admins are we targeting, assuming 5 to 7? could be in here and I missed.
+-- Moderating is public infrastrucutre implemented with human time/capital and is an unfortunate, but necessary thing. FREE SPEACH ISN"T FREE, sorry... someone paid for that "free". Mods should be compensated in some way (100ERG month target = 20 each if 5) as this can be a full-time/part-time job depending on the day (usually markets down) or community engagement (FUDerinos)
+-- Builder Track: Alternative qualification path for people with significant code/content contributions but low social presence. 3+ merged PRs or equivalent = counts as "known."
+4) No Self-Amendment Process
+-- Think Paideia, open platform, on-chain voting is the easy solution - Sigs vote. Again, anyone can join Sigmanauts.
+-- have community feedback - PR on repo that triggers Sig review seems most logical. 
+-- Proposed changes require 2-week comment period then Sig vote
+-- Complaining of vote process (7days is standard vote term for Sigmanauts) will not be tolerated.
+5) Cross-Platform Gap
+-- Tough one honestly. Totally agree with Kushti and Jumei that you can't moderate it, however think it should be narrowly defined.
+-- Platform Hierarchy: Discord/Telegram rules apply there. Off-platform behavior only relevant if: (a) directly references Ergo community members, (b) involves doxxing/threats, (c) represents ongoing harassment pattern.
+-- Evidence Standard: Off-platform conduct requires screenshots + corroboration from 2+ independent sources before action.
+6) Perception of No Failsafe -- I think Jury solves this and self-amending via PR and Paideia votes
+7) Subjective Rule Vagueness
+-- Example Appendix: 10-15 clear scenarios for each subjective rule. "This is sarcasm that crosses the line. This is acceptable criticism."
+-- Three-Strike Visibility: First two subjective violations = warning with specific explanation. Third = action. Creates paper trail and forces mods to articulate reasoning. (back to MOD logging)
+-- Challenger's Right: If warned for subjective violation, can request second mod opinion before escalation.
+-- moderation-rules.md §8: Common Sense Clause shouldn't be allowed to be "used" more than once per 30 day period of time by same admin or something.
