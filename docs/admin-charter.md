@@ -116,7 +116,4 @@ Admins accept this role knowing:
 - it is service, not power
 - restraint matters more than authority
 - the community outlives any individual
-
-- [TERM LIMIT]
-- [HOW TO AMMEND THESE DOCUMENTS? PAIDEIA VOTE?]
-- 
+- expect to commit to a 6-month terms
